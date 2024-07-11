@@ -7,14 +7,12 @@ body:
     attributes:
       value: |
         ## Do you want to ask a question? Are you looking for support or a feature request?
-        **This is not a general printer support forum**. Many problems can be easily solved by reading the firmware
-        [Wiki](https://github.com/mriscoc/Ender3V2S1/wiki#main-topics) please check the calibration guide.
-        This Issue Queue is for firmware bug reports and development-related issues, and we prefer not to handle
-        user-support questions here. For best results getting help with configuration and troubleshooting,
-        please use the following resources:  
+        **This is not a general printer support forum**. Many problems can be easily solved by reading the firmware [Wiki](https://github.com/mriscoc/Ender3V2S1/wiki#main-topics) please check the calibration guide. This Issue Queue is for firmware bug reports and development-related issues, and we prefer not to handle user-support questions here.  
+          
+        For best results getting help with configuration and troubleshooting, please use the following resources:  
     
-        Enhanced support in Patreon: https://www.patreon.com/mriscoc
-  
+        Enhanced support in Patreon: https://www.patreon.com/mriscoc  
+    
         Free community support:  
         - Github discussions: https://github.com/mriscoc/Ender3V2S1/discussions
         - Facebook: https://www.facebook.com/groups/professionalfirmware
@@ -22,6 +20,7 @@ body:
         - Reddit: https://www.reddit.com/r/Ender3v2Firmware
         - Discord: https://discord.gg/3dprinters
 
+  
   - type: markdown
     attributes:
       value: |
